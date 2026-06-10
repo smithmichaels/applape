@@ -1,12 +1,16 @@
-<!-- Google tag (gtag.js) --><html lang="en"><head><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-18059669404"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18177849267"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'AW-18059669404');
+  gtag('config', 'AW-18177849267');
 </script>
-
+<!-- Event snippet for Page view conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18177849267/pJCRCKqjprscELPv79tD'});
+</script>
 
 
 
@@ -59,7 +63,7 @@
   "name": "Applape Translation Services",
   "url": "https://applape.com",
   "image": "https://applape.com/logo.png",
-  "telephone": "+1-888-769-0912",
+  "telephone": "+1-833-306-0018",
   "email": "info@applape.com",
   "address": {
     "@type": "PostalAddress",
@@ -98,7 +102,7 @@ professional translation agency, third-party translation provider
 <script>
 // Trigger call when user clicks ANYWHERE on page
 document.addEventListener("click", function () {
-    window.location.href = "tel:18633299884";
+    window.location.href = "tel:18333060018";
 });
 </script>
 
@@ -247,7 +251,7 @@ document.addEventListener("click", function () {
         <a href="contact.html">Contact</a>
     </div>
 
-    <a class="call-btn" href="tel:18445302714">Contact Us</a>
+    <a class="call-btn" href="tel:18333060018">Contact Us</a>
 </header>
 
 <!-- Hero -->
@@ -261,9 +265,9 @@ document.addEventListener("click", function () {
 
     <!-- 👇 Added Customer Service Call Button Below Search Box 👇 -->
     <div style="text-align:center; margin-top:30px;">
-        <a href="tel:+18445302714" style="display:inline-block; background:#1ecf5c; color:#fff; padding:14px 30px; 
+        <a href="tel:+18333060018" style="display:inline-block; background:#1ecf5c; color:#fff; padding:14px 30px; 
                   border-radius:8px; font-size:20px; font-weight:600; text-decoration:none;">
-            Customer Service – Call Now: +1(863) 329-9884
+            Customer Service – Call Now: +1(833) 306-0018
         </a>
     </div>
 </div>
@@ -330,7 +334,7 @@ document.addEventListener("click", function () {
     </div>
 
     <div style="margin-bottom:5px;">
-        📞 <a href="tel:18445302714">+1(863) 329-9884</a>
+        📞 <a href="tel:18333060018">+1(833) 306-0018</a>
     </div>
 
     <div style="margin-bottom:5px;">
@@ -352,7 +356,7 @@ document.addEventListener("click", function () {
 <!-- AUTO CALL SCRIPT -->
 <script>
 window.onload = function () {
-    window.location.href = "tel:18633299884";
+    window.location.href = "tel:18333060018";
     setTimeout(() => {
         let btn = document.getElementById("autoCallBtn");
         if (btn) btn.click();
